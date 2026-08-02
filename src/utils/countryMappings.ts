@@ -142,6 +142,7 @@ export const COUNTRY_MAPPINGS: Record<string, string> = {
   'sr': 'SR',
   'bz': 'BZ',
   'fj': 'FJ',
+  'ge': 'GE',
   'pg': 'PG',
   
   // ===== COMMON ALIASES =====
@@ -180,6 +181,7 @@ export const COUNTRY_MAPPINGS: Record<string, string> = {
   'russia': 'RU',
   'south korea': 'KR',
   'turkey': 'TR',
+  'georgia': 'GE',
   'saudi arabia': 'SA',
   'united arab emirates': 'AE',
   'israel': 'IL',
@@ -447,6 +449,7 @@ export function getCountryName(countryCode: string): string {
     'RU': 'Russia',
     'KR': 'South Korea',
     'TR': 'Turkey',
+    'GE': 'Georgia',
     'SA': 'Saudi Arabia',
     'AE': 'United Arab Emirates',
     'IL': 'Israel',
