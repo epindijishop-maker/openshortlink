@@ -2792,6 +2792,7 @@ export function dashboardHtml(csrfToken: string, nonce: string): string {
       { code: 'NZ', name: 'New Zealand' },
       { code: 'RU', name: 'Russia' },
       { code: 'TR', name: 'Turkey' },
+      { code: 'GE', name: 'Georgia' },
       { code: 'SA', name: 'Saudi Arabia' },
       { code: 'AE', name: 'United Arab Emirates' },
       { code: 'IL', name: 'Israel' },
